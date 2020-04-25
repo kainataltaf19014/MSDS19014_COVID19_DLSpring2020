@@ -1,7 +1,7 @@
 # MSDS19014_COVID19_DLSpring2020
 This repository contains code and results for COVID-19 classification assignment by Deep Learning Spring 2020 course offered at Information Technology University, Lahore, Pakistan. This assignment is only for learning purposes and is not intended to be used for clinical purposes.
 
-#VGG - Unfreeze FC Layer Only
+##VGG - Unfreeze FC Layer Only
 
 Accuracy
 
@@ -29,7 +29,7 @@ Testing Data
  [ 22 583]]
 
 
-RESNET - Unfreeze FC Layer Only
+##RESNET - Unfreeze FC Layer Only
 
 Accuracy
 
@@ -56,7 +56,7 @@ Testing Data
 [[524   9]
  [ 68 619]]
  
-#VGG - Unfreeze Convolutional Layers
+##VGG - Unfreeze Convolutional Layers
 
 Accuracy
 
@@ -83,7 +83,7 @@ Testing Data
 [[524   9]
  [ 68 619]]
  
-#VGG - Unfreeze All Layers
+##VGG - Unfreeze All Layers
 
 Accuracy
 
@@ -110,7 +110,7 @@ Testing Data
 [[553  11]
  [ 39 617]]
 
-#RESNET - Unfreeze Convolutional Layers
+##RESNET - Unfreeze Convolutional Layers
 
 Accuracy
 
@@ -137,7 +137,7 @@ Testing Data
 [[533  13]
  [ 59 615]]
  
-#RESNET - Unfreeze All Layers
+##RESNET - Unfreeze All Layers
 
 Accuracy
 
