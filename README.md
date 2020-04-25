@@ -82,3 +82,86 @@ Testing Data
 
 [[524   9]
  [ 68 619]]
+ 
+#VGG - Unfreeze All Layers
+
+Accuracy
+
+Training Data
+90.09%
+
+Testing Data
+95%
+
+Confusion Matrix
+
+Training Data
+
+[[12989  1414]
+ [ 2671 14620]]
+ 
+Validation Data
+
+[[13510  1449]
+ [ 2765 15066]]
+ 
+Testing Data
+
+[[553  11]
+ [ 39 617]]
+
+#RESNET - Unfreeze Convolutional Layers
+
+Accuracy
+
+Training Data
+88.90%
+
+Testing Data
+94%
+
+Confusion Matrix
+
+Training Data
+
+[[11795  1524]
+ [ 3865 14510]]
+ 
+Validation Data
+
+[[12276  1554]
+ [ 3999 14961]]
+ 
+Testing Data
+
+[[533  13]
+ [ 59 615]]
+ 
+#RESNET - Unfreeze All Layers
+
+Accuracy
+
+Training Data
+90.18%
+
+Testing Data
+93%
+
+Confusion Matrix
+
+Training Data
+
+[[12063  1640]
+ [ 3597 14394]]
+ 
+Validation Data
+
+[[12552  1675]
+ [ 3723 14840]]
+ 
+Testing Data
+
+[[528  20]
+ [ 64 608]]
+
+ 
