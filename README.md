@@ -164,4 +164,83 @@ Testing Data
 [[528  20]
  [ 64 608]]
 
+ ## Part 2
+ ## VGG - With Focal Loss
  
+ Accuracy
+
+Training Data
+87.15%
+
+Testing Data
+87.30%
+
+Confusion Matrix
+
+Training Data
+
+[[[6000 0] 
+[ 189 11]] 
+[[1848 352] 
+[ 231 3769]] 
+[[3766 234] 
+[ 345 1855]]]
+
+Validation Data 
+
+[[[600 0] 
+[ 28 0]] 
+[[187 41] 
+[ 15 385]] 
+[[383 17] 
+[ 43 185]]]
+ 
+F1 Score
+
+Training Data
+
+0.88073
+
+Validation Data 
+
+0.8674
+
+## RESNET - With Focal Loss
+ 
+Accuracy
+
+Training Data
+65%
+
+Testing Data
+63.23%
+
+Confusion Matrix
+
+Training Data
+
+[[[5995 5] 
+[ 200 0]] 
+[[1816 384] 
+[ 111 3889]] 
+[[3945 55] 
+[2009 191]]]
+
+Validation Data 
+
+[[[600 0] 
+[ 28 0]] 
+[[195 33] 
+[ 13 387]] 
+[[399 1] 
+[216 12]]]
+ 
+F1 Score
+
+Training Data 
+
+0.64128
+
+Validation Data 
+
+0.6101
